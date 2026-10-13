@@ -1,0 +1,14 @@
+ em {
+     color: green;
+     text-decoration: underline;
+ }
+
+ code {
+     color: red;
+     text-decoration: underline;
+ }
+
+ li>code {
+     color: pink;
+     background-color: blue;
+ }
